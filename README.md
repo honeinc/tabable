@@ -4,7 +4,9 @@ This is a simple module that will add tab-index attributes to your elements. [![
 
 ### Install
 
-    $ npm install tabable
+```
+$ npm install tabable
+```
 
 ### Usage
 
