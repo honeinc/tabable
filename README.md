@@ -24,4 +24,4 @@ var tabable = require( 'tabable' );
 tabable( document.getElementById( 'foo' ), 'textarea' );
 ```
 
-##### Have a issue? report it in the issues tab.
+##### Have an issue? report it in the issues tab.
